@@ -9,11 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.3",
+    "lodash.debounce": "^4.0.8",
+    "mongoose": "^8.4.3",
+    "next": "14.2.4",
+    "next-auth": "^4.24.7",
+    "nodemailer": "^6.9.14",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "react-loader-spinner": "^6.1.6"
   },
   "devDependencies": {
+    "@types/node": "20.14.6",
+    "@types/react": "18.3.3",
     "eslint": "^8",
     "eslint-config-next": "14.2.4"
   }
